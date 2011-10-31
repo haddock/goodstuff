@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#usage: ./svtplaysaver.sh http://svtplay.se/path/to/program targetfilename.ts
 NUM_ARGS=1 
 
 function get_playlist {
